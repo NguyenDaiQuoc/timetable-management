@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quản Lý Thời Khóa Biểu</string>
+    
+    <string-array name="days_of_week">
+        <item>Thứ Hai</item>
+        <item>Thứ Ba</item>
+        <item>Thứ Tư</item>
+        <item>Thứ Năm</item>
+        <item>Thứ Sáu</item>
+        <item>Thứ Bảy</item>
+        <item>Chủ Nhật</item>
+    </string-array>
+</resources>
